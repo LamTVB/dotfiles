@@ -1,6 +1,3 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@id_personal:LamTVB/nvim-config.git
-[submodule "opencode/superpowers"]
-	path = opencode/superpowers
-	url = https://github.com/obra/superpowers

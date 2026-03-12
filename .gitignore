@@ -21,6 +21,12 @@
 
 # Tools
 !opencode/
-!opencode/**
+!opencode/skills/
+!opencode/skills/**
+!opencode/plugins/
+!opencode/plugins/**
+# Upstream superpowers — installed separately, not tracked here
+opencode/superpowers/
+opencode/skills/superpowers
 !gh/
 !gh/**
