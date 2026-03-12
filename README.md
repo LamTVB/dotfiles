@@ -11,6 +11,7 @@ Personal `~/.config` managed with git. Allowlist-based `.gitignore` — everythi
 | `nvim/` | Neovim (submodule) |
 | `gh/` | GitHub CLI |
 | `opencode/` | OpenCode plugins & skills |
+| `claude/` | Claude Code config (`CLAUDE.md`, symlinked from `~/.claude/`) |
 
 ## Setup
 
