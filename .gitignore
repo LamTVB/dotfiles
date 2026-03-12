@@ -30,3 +30,7 @@ opencode/superpowers/
 opencode/skills/superpowers
 !gh/
 !gh/**
+
+# AI
+!claude/
+!claude/**
