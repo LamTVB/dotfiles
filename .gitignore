@@ -1,0 +1,25 @@
+# Ignore everything by default — allowlist what we care about
+*
+
+# This file
+!.gitignore
+
+# Shell
+!fish/
+!fish/**
+!omf/
+!omf/**
+
+# Terminal
+!ghostty/
+!ghostty/**
+
+# Editor
+!nvim/
+!nvim/**
+
+# Tools
+!opencode/
+!opencode/**
+!gh/
+!gh/**

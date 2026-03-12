@@ -1,0 +1,9 @@
+# Font
+font-family = CodeNewRoman Nerd Font Mono
+font-size = 14
+
+# Split navigation (ctrl+shift+h/j/k/l to avoid conflict with neovim's ctrl+h/j/k/l)
+keybind = ctrl+shift+h=goto_split:left
+keybind = ctrl+shift+j=goto_split:down
+keybind = ctrl+shift+k=goto_split:up
+keybind = ctrl+shift+l=goto_split:right
